@@ -1,11 +1,15 @@
 # My Super Mario Java 2D Game
 
-This is a full screen 2D Java game like super mario with some basic creatures and maps.
+## How to Play
 
-This game is implemented using the Java programming language, using the java graphics librieries.
+The game can be played by either downloading the JAR file or by opening the project in the netbeans IDE.
 
-The used IDE is netbeans (I uploaded all project artifacts), also the game JAR file is uploaded.
+Once the game is opened, the player will be presented with a title screen with the option to start the game.
 
-This game is free to use and the code is available to anyone to learn from it without any restrictions.
+Once the game starts, the player will be presented with a map and the goal of the game is to reach the end of the map.
 
-Please visit my website. http://www.mohamedtalaat.net/
+The player will be able to move the character using the arrow keys and jump using the space bar.
+
+The player will also be able to collect coins and avoid the enemies in order to reach the end of the map.
+
+The game is over when the player reaches the end of the map or when the player runs out of lives.
